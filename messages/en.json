@@ -1,0 +1,7 @@
+{
+  "index": { "title": "Detail" },
+  "navigation": {
+    "home": "home",
+    "about": "about"
+  }
+}
